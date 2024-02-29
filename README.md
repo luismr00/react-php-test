@@ -8,6 +8,6 @@ the instructions below in order:
 1. Clone or fork the repo into your local machine
 2. Open two terminals whether in your IDE of choice or outside of it and make sure you cd your way to the repo directory on both terminals
 3. Run "npm i" in your first terminal and then run "npm start" after all npm dependencies are installed 
-4. Run "php -S localhost:8000" on the second terminal to start the server
+4. On the second terminal, cd your way to the PHP directory folder within the repo and run "php -S localhost:8000" to start the server
 5. Test the webpage and familiarize yourself with the basic PHP and React code 
 ```
